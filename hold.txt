@@ -1,0 +1,51 @@
+//reasons our emails are slow
+goDaddy Shared hosting server doesn't support that for security reasons
+https://sendy.co/forum/discussion/918/smtp-on-godaddy-shared-hosting/p1
+
+//twilio URLs
+https://www.youtube.com/watch?v=jZPeNfLD5Yc
+https://www.youtube.com/watch?v=rrx4ux-hChw
+https://www.youtube.com/results?search_query=twilio+with+laravel+5+smaple
+
+//this is for extension on APIs
+https://medium.com/@Sirolad/laravel-5-5-api-form-request-validation-errors-d49a85cd29f2
+
+//wine pumps
+https://www.jumia.com.ng/catalog/?q=wine+pumps
+
+Solutions to uncommon errors
+http://www.derekbliss.com/post/laravel-streamsocketenablecrypto-ssl-operation-failed-with-code-1
+
+// this is how to push a local branch straight to a remote master
+git push origin develop:master
+git push <remote> <local branch name>:<remote branch to push into>
+
+git branch development
+git add *
+git commit -m "My initial commit message"
+git push -u origin development
+
+git checkout master
+git merge development
+git push -u origin master
+
+=========BETTER METHOD ======
+(on branch development)$ git merge master
+(resolve any merge conflicts if there are any)
+git checkout master
+git merge development (there won't be any conflicts now)
+
+//things left
+be able to delete a client
+be able to add new admin user
+make the get reports to require authentication
+be able to edit admin user details
+be able to change admin user password
+pu the code on the server
+create a documentation page for the api section for mobile developers
+
+//things to add nau
+1. create a resend of unique codes if the didn't get a mail or deleted by mistake
+2. Create forgot password for dream secure
+3. Document it in the index page and upload the codes
+4. Inform the developers about the changes

@@ -1,0 +1,7 @@
+Check for ways to make the mail arrive faster.
+They can skip the emails for the ICE, hence make it optional.
+Write a mial cc mr tunde for the request for a twilio number
+Research on how to make mails faster and send a copy to the MD and Mr Tunde.
+Add to the copyright / legal documents when a user is downloading the app, that
+1. Use of it wrongly is not dreammesh fault
+2. GPS doesn't give exact location, its 2 meters approximately.
